@@ -46,7 +46,7 @@ Ce cours vous propose de découvrir l'aventure de la création d'un logiciel pou
    4. Nous présenterons le reporting d'erreur et les systèmes de mise-à-jour automatiques.
 
 | Tout au long de ce cours nous utiliserons le système ROS2 et des packages particulier de ROS2 pour illustrer les concepts abordés.
-| Pour ce cours vous développerez un logiciel de contrôle d'un robot déployé sur un raspberry pi.
+| Pour ce cours vous développerez un logiciel de contrôle d'un robot déployé sur un Raspberry Pi.
 
 *****************
 Performances

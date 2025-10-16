@@ -18,7 +18,7 @@ Qu'est-ce qu'un logiciel de qualité ?
 | Un logiciel de qualité est un logiciel qui fait ce qu'on lui demande de faire sans erreur ni faille de sécurité, qui est facile à utiliser et qui est facile à maintenir et à faire évoluer.
 | Pour ce faire il comporte souvent des librairies permettant un développement modulaire ainsi que la possibilité d'utiliser les fonctionnalités développées pour le logiciel dans d'autres logiciels.
 | Pour garantir la fiabilité du logiciel, il est important de concevoir **des tests** dès la conception du logiciel et **d'exécuter les tests** régulièrement pour garantir que le logiciel fonctionne correctement.
-| Enfin un logiciel de qualité a un système de **reporting des erreurs et des bugs** qui permet que lorsque des erreurs en production surviennent, celles-ci soient automatiquement loguées et transmises aux développeurs chargés de la maintenance poru qu'ils puissent les corriger rapidement.
+| Enfin un logiciel de qualité a un système de **reporting des erreurs et des bugs** qui permet que lorsque des erreurs en production surviennent, celles-ci soient automatiquement loguées et transmises aux développeurs chargés de la maintenance pour qu'ils puissent les corriger rapidement.
 | Enfin un logiciel de qualité peut se **mettre à jour automatiquement** pour corriger les erreurs et les bugs et pour ajouter de nouvelles fonctionnalités.
 
 
